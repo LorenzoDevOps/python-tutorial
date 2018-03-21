@@ -12,5 +12,11 @@ print(version)
 versionTab = str(version[0])+"."+ str(version[1])+"."+str(version[2])+"."+str(version[3])+"."+str(version[4])
 print("Hello Python (version "+ versionTab+")")
 
-version = ".".join(str(x) for x in version)
-print("Hello Python (version "+ version + ")")
+ver = ".".join(str(x) for x in version)
+print("Hello Python (version "+ ver + ")")
+
+vers = [str(x) for x in version]
+print (vers)
+
+for x in version:
+    print(x)

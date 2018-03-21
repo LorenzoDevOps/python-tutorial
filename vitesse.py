@@ -11,6 +11,6 @@ vitesse = distance / temps
 
 val = "exercise vitesse"
 print("title = {}".format(val))
-
-resultat = "la vitesse est de {:.4f} km/h"
-print(resultat.format(vitesse))
+print("{}".format("-"*23))
+str='la vitesse est de {:.2f} km/h'
+print(str.format(vitesse))
