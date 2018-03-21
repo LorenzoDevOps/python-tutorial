@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be8ffb34-ce18-4772-85b4-a7d7bb04b21c" name="Default" comment="Basic programs">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exemple3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/unidata.txt" />
+    <list default="true" id="be8ffb34-ce18-4772-85b4-a7d7bb04b21c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/python_version.py" afterPath="$PROJECT_DIR$/python_version.py" />
-      <change beforePath="$PROJECT_DIR$/vitesse.py" afterPath="$PROJECT_DIR$/vitesse.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -281,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521642939737</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lists, dicos">
+      <created>1521643557676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521643557676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -321,7 +322,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic programs" />
     <MESSAGE value="Lists, dicts, tuples..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lists, dicts, tuples..." />
+    <MESSAGE value="Lists, dicos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lists, dicos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
